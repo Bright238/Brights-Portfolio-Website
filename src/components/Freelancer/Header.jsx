@@ -25,36 +25,7 @@ const Header = () => {
             </div>
             <div className="col-lg-6">
               <div className="img mt-5 mt-lg-0">
-                {/* <img src="/assets/img/header/head_13_hero.png" alt="" /> */}
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-              
-          
+                <img src="/assets/img/myself.png" alt="" />
               </div>
             </div>
           </div>
