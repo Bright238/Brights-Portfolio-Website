@@ -1,0 +1,86 @@
+{
+  "linkTabs": [
+    {
+      "id": "prj1",
+      "tab": "prj1",
+      "control": "pills-home",
+      "name": "All Projects"
+    },
+    {
+      "id": "prj2",
+      "tab": "prj2",
+      "control": "pills-profile",
+      "name": "Website Development"
+    },
+    {
+      "id": "prj3",
+      "tab": "prj3",
+      "control": "pills-contact",
+      "name": "Mobile App Development"
+    },
+    {
+      "id": "prj4",
+      "tab": "prj4",
+      "control": "pills-contact",
+      "name": "Game Design"
+    },
+    {
+      "id": "prj5",
+      "tab": "prj5",
+      "control": "pills-contact",
+      "name": "Interior Design"
+    }
+  ],
+  "tabContent": [
+    {
+      "id": "prj1",
+      "slides": [
+        {
+          "image": "/assets/img/projects/11.png",
+          "subTitle": "App, UX, Design",
+          "title": "Hemera iOS App Design"
+        },
+        {
+          "image": "/assets/img/projects/12.png",
+          "subTitle": "App, UX, Design",
+          "title": "Hemera iOS App Design"
+        },
+        {
+          "image": "/assets/img/projects/13.png",
+          "subTitle": "App, UX, Design",
+          "title": "Hemera iOS App Design"
+        },
+        {
+          "image": "/assets/img/projects/14.png",
+          "subTitle": "App, UX, Design",
+          "title": "Hemera iOS App Design"
+        }
+      ]
+    },
+    {
+      "id": "prj2",
+      "slides": [
+        {
+          "image": "/assets/img/projects/11.png",
+          "subTitle": "Web, UI, Development",
+          "title": "Custom Website Design"
+        },
+        {
+          "image": "/assets/img/projects/12.png",
+          "subTitle": "Web, UI, Development",
+          "title": "Business Website Solution"
+        },
+        {
+          "image": "/assets/img/projects/13.png",
+          "subTitle": "Web, UI, Development",
+          "title": "E-Commerce Platform"
+        },
+        {
+          "image": "/assets/img/projects/14.png",
+          "subTitle": "Web, UI, Development",
+          "title": "Portfolio Website Design"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "image": "/assets/img/team/1.jpeg",
+    "category": "Software Development",
+    "content": "Bright is an exceptional software engineer with deep expertise in web and cloud development. His ability to design scalable and efficient solutions is unmatched.",
+    "author": {
+      "name": "Goodspeed Kopolo",
+      "position": "CEO at EnvironCompass"
+    }
+  },
+  {
+    "image": "/assets/img/team/2.jpeg",
+    "category": "DevOps & Cloud Solutions",
+    "content": "Working with Bright has been a game-changer. His DevOps expertise and problem-solving skills helped us streamline our cloud infrastructure effortlessly.",
+    "author": {
+      "name": "Lesley Moyo",
+      "position": "Final Preparation Online Church Ministries"
+    }
+  },
+  {
+    "image": "/assets/img/team/3.jpeg",
+    "category": "UI/UX & Product Design",
+    "content": "Bright’s attention to detail and user-centric approach in UI/UX design made our platform intuitive and visually appealing. Highly recommended!",
+    "author": {
+      "name": "Tinashe Mupfumira",
+      "position": "Founder at Visionary Apps"
+    }
+  }
+]
