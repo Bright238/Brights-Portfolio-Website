@@ -55,7 +55,7 @@ const Navbar = () => {
             </li>
           </ul>
           <div className="nav-side mt-3 mt-lg-0">
-            <a href="https://www.canva.com/design/DAGW52vVmVU/-AnMMpFblUEk5wRhOIeNxQ/view?utm_content=DAGW52vVmVU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa42956060" className="btn rounded-pill text-white bg-dark hover-orange3" target="_blank">
+            <a href="https://www.canva.com/design/DAGW52vVmVU/-AnMMpFblUEk5wRhOIeNxQ/view?utm_content=DAGW52vVmVU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa42956060" className="btn rounded-pill text-white bg-dark hover-orange3">
               <small> Download CV </small>
             </a>
           </div>
